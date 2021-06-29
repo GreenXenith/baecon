@@ -1,0 +1,2 @@
+#    Range at which players can smell baecon cooking.
+baecon.range (Baecon smell range) int 50
